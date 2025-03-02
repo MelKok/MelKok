@@ -4,21 +4,23 @@ Willkommen auf meinem GitHub-Profil! 🚀
 
 ## Über mich
 
-- 🔭 Ich arbeite aktuell an: **[Deinem aktuellen Projekt oder Interessensgebiet]**
-- 🌱 Ich lerne gerade: MongoDB
-- 📫 Du kannst mich erreichen unter: **linkedin.com/in/melisa-köktürk-5b3407219**
+- 🔭 Ich arbeite aktuell daran, meine **Data Science Skills** zu erweitern
+- 🌱 Ich lerne gerade **MongoDB**
+- 📫 Du kannst mich erreichen unter: [LinkedIn](https://www.linkedin.com/in/melisa-k%C3%B6kt%C3%BCrk-5b3407219)
 
 ## 💻 Meine Fähigkeiten
 
-- **Programmiersprachen:** Python und R
-- **Frameworks & Tools:** [Hier deine bevorzugten Technologien, z. B. React, Node.js, Docker, etc.]
-- **Sonstige Kenntnisse:** SQL
+- **Programmiersprachen:** Python, R
+- **Frameworks & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Datenbanken:** SQL, MongoDB
+- **Sonstige Kenntnisse:** Machine Learning, Datenanalyse, Explorative Datenanalyse (EDA)
 
 ## 📈 GitHub-Statistiken
 
-![Dein GitHub-Statistik-Badge](https://github-readme-stats.vercel.app/api?username=MelKok&show_icons=true&theme=dark)
-
+![GitHub-Statistik](https://github-readme-stats.vercel.app/api?username=MelKok&show_icons=true&theme=dark)
 
 Danke fürs Vorbeischauen! 😃
+
+
 
 

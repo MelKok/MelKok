@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hallo, ich bin Melisa Köktürk
 
-<!--
-**MelKok/MelKok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Willkommen auf meinem GitHub-Profil! 🚀
 
-Here are some ideas to get you started:
+## Über mich
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Ich arbeite aktuell an: **[Deinem aktuellen Projekt oder Interessensgebiet]**
+- 🌱 Ich lerne gerade: MongoDB
+- 📫 Du kannst mich erreichen unter: **linkedin.com/in/melisa-köktürk-5b3407219**
+
+## 💻 Meine Fähigkeiten
+
+- **Programmiersprachen:** Python und R
+- **Frameworks & Tools:** [Hier deine bevorzugten Technologien, z. B. React, Node.js, Docker, etc.]
+- **Sonstige Kenntnisse:** SQL
+
+## 📈 GitHub-Statistiken
+
+![Dein GitHub-Statistik-Badge](https://github-readme-stats.vercel.app/api?username=MelKok&show_icons=true&theme=dark)
+
+
+Danke fürs Vorbeischauen! 😃
+
+
